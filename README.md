@@ -9,7 +9,7 @@ Simple Python script for Generate your ownd QR-Code
      
       pip install qrcode[pil]
 
-      git clone https://github.com/VirajLR/QR-Gen
+      git clone https://github.com/VirajLR/QR-Gen.git 
 
       cd QR-Gen
 
