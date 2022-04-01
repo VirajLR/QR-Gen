@@ -29,4 +29,5 @@ pip install pyqrcode
 
 pip install pypng
 
-echo "Done"
+echo "Requirements Successfully Installed";
+echo "Please run python generator.py";
